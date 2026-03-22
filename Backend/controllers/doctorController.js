@@ -1,7 +1,7 @@
 import doctorModel from '../models/doctorModel.js'
 import bcrypt from 'bcrypt'
 import jwt from 'jsonwebtoken'
-import {toast} from 'react-toastify'
+// import {toast} from 'react-toastify'
 import appointmentModel from '../models/appointmentModel.js'
 
 
